@@ -1,0 +1,5 @@
+{
+  "name": "Testing Automation Assistant",
+  "description": "An AI-powered assistant for university students to generate Python Selenium scripts, test cases, and bug reports from natural language descriptions, based on their testing automation course materials.",
+  "requestFramePermissions": []
+}
